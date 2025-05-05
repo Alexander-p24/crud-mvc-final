@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1 style = "text-align: center">Lista de Usuarios</h1>
-    <a href="index.php?action=create">New User</a>
+    <a href="index.php?action=create">Nuevo Usuario</a>
     <table class="table">
         <tr>
             <td>ID</td>
