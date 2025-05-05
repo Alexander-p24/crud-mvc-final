@@ -6,7 +6,7 @@
     <title>.: Create :.</title>
 </head>
 <body>
-    <h1>Nuevo Usuario</h1>
+    <h1 style = "text-align: center">Nuevo Usuario</h1>
 
     <form action="index.php?action=store" method="POST">
         <div class="mb-3">
